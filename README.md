@@ -1,2 +1,2 @@
 # graphene
-Graphene assistant to check if a set of parameters give a monolayer or a multilayer structure.
+A graphene assistant utilising RAG.
