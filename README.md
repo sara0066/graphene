@@ -1,5 +1,5 @@
 # Graphene Chatbot
-A graphene assistant utilising RAG.
+A graphene Q&A chatbot utilising RAG. 
 
 References:
 
