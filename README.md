@@ -12,7 +12,7 @@ A graphene Q&A LLM-powered chatbot utilising RAG.
 
 ----
 
-### Total personal costs in running codes (for recording purposes):
+### Total personal costs in running codes:
 AWS (in draft codes, using resources such as Textract and S3 bucket): 70
 
 OpenAI API key (for models): 15
