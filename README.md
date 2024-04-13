@@ -1,8 +1,8 @@
 # Graphene Chatbot
 A graphene Q&A LLM-powered chatbot utilising RAG. 
 
-<img src="https://github.com/sara0066/graphene/assets/154972811/51ff4da4-c2f5-43cc-ae0d-e23f4406a1c0" height="200">
-<img src="https://github.com/sara0066/graphene/assets/154972811/0a5edb24-9661-4a54-83ef-cc5a207cfcec" height="200">
+<img src="https://github.com/sara0066/graphene/assets/154972811/51ff4da4-c2f5-43cc-ae0d-e23f4406a1c0" height="250">
+<img src="https://github.com/sara0066/graphene/assets/154972811/0a5edb24-9661-4a54-83ef-cc5a207cfcec" height="250">
 
 ## References:
 
