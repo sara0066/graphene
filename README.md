@@ -25,7 +25,7 @@ Total: 105
 
 ----
 
-(Thank you to Mr Sahota for giving expressed permission in using his code for my project!)
+(Thank you to Mr Sahota for giving express consent in using his code for my project!)
 
 ![image](https://github.com/sara0066/graphene/assets/154972811/ff11124d-055e-443f-8fb1-b3c4735f2385)
 
